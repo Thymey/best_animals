@@ -1,0 +1,231 @@
+List of Fish
+
+A
+
+
+Anchovy
+
+B
+
+
+Bass (black)
+
+
+Bass (striped)
+
+
+Bluefish
+
+
+Buffalo Fish
+
+
+Butterfish
+
+C
+
+
+Calamari (Squid)
+
+
+Carp
+
+
+Catfish (farm-raised)
+
+
+Chilean sea bass
+
+
+Clam
+
+
+Cod
+
+
+Crab (Blue, King and Snow)
+
+
+Crayfish (Crawfish)
+
+
+Croaker (Atlantic)
+
+F
+
+
+Flounder
+
+G
+
+
+Golden Snapper
+
+
+Grouper
+
+H
+
+
+Haddock
+
+
+Hake
+
+
+Halibut
+
+
+Herring
+
+J
+
+
+Jack (Amber, Crevalle)
+
+
+Jacksmelt
+
+K
+
+
+King Mackerel
+
+L
+
+
+Lobster (northern, Maine, A...
+
+
+Lobster (spiny)
+
+M
+
+
+Mackerel (Atlantic, jack, chub)
+
+
+Mahi Mahi (Dolphin-fish)
+
+
+Marlin
+
+
+Mullet
+
+O
+
+
+Orange Roughy
+
+
+Oysters (cooked)
+
+P
+
+
+Perch (Freshwater)
+
+
+Perch (Ocean)
+
+
+Pickerel
+
+
+Plaice
+
+
+Pollock
+
+
+Pompano (Florida)
+
+R
+
+
+Rainbow Trout (farm-raised)
+
+S
+
+
+Sablefish
+
+
+Salmon (wild or farm-raised)
+
+
+Sardine
+
+
+Scallop
+
+
+Scorpion Fish
+
+
+Sea Trout
+
+
+Shad (American)
+
+
+Shark
+
+
+Shrimp
+
+
+Snapper
+
+
+Sole
+
+
+Spanish Mackerel (Gulf of Me...
+
+
+Spanish Mackerel (S. Atlantic)
+
+
+Squid (Calamari)
+
+
+Swordfish
+
+T
+
+
+Tilapia
+
+
+Tilefish (Atlantic)
+
+
+Tilefish (Gulf of Mexico)
+
+
+Tuna (Albacore, Yellowfin, c...
+
+
+Tuna (all fresh or frozen)
+
+
+Tuna (Skipjack, Light, canned)
+
+W
+
+
+Walleye (Great Lakes, Canada)
+
+
+Weakfish
+
+
+White Croaker (Pacific)
+
+
+Whitefish
+
+
+Whiting
